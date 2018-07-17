@@ -12,4 +12,4 @@ Quadro kanban para manutenção de tarefas, utilizando recursos de drag and drop
 <h4>Screenshot</h4>
 
 <a href="https://postimg.cc/image/9q8jurwsr/" target="_blank"><img src="https://s33.postimg.cc/kd2d074y5/kanban.png?dl=1" alt="kanban"/></a><br/><br/>
-<a href="https://postimg.cc/image/l2l5ckd7f/" target="_blank"><img src="https://s33.postimg.cc/l2l5ckd7f/kanban2.png" alt="kanban"/></a><br/><br/>
+<a href="https://postimg.cc/image/l2l5ckd7f/" target="_blank"><img src="https://s33.postimg.cc/42293w065/kanban2.png?dl=1" alt="kanban"/></a><br/><br/>
