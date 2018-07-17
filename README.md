@@ -12,3 +12,5 @@ Quadro kanban para manutenção de tarefas, utilizando recursos de drag and drop
 <h4>Screenshot</h4>
 
 <a href='https://postimg.cc/image/pyos4ldgb/' target='_blank'><img src='https://s33.postimg.cc/pyos4ldgb/kanban.png' border='0' alt='kanban' width="800px" height="600px"/></a>
+
+<a href='https://s33.postimg.cc/hgfc096xp/kanban.png?dl=1' target='_blank'><img src='https://s33.postimg.cc/pyos4ldgb/kanban.png' border='0' alt='kanban' width="800px" height="600px"/></a>
