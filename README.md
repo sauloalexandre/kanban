@@ -10,8 +10,5 @@ Quadro kanban para manutenção de tarefas, utilizando recursos de drag and drop
 <br>1. Abra o navegador com o seu //localhost e acesse a página index.php do projeto;
 
 <h4>Screenshot</h4>
-[![kanban.png](https://s33.postimg.cc/mru8kyt0f/kanban.png)](https://postimg.cc/image/pyos4ldgb/)
 
-<a href='https://postimg.cc/image/pyos4ldgb/' target='_blank'><img src='https://s33.postimg.cc/pyos4ldgb/kanban.png' border='0' alt='kanban'/></a>
-
-[kanban.png](https://postimg.cc/image/pyos4ldgb/)
+<a href='https://postimg.cc/image/pyos4ldgb/' target='_blank'><img src='https://s33.postimg.cc/pyos4ldgb/kanban.png' border='0' alt='kanban' width="400px" height="300px"/></a>
